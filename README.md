@@ -1,4 +1,5 @@
-#auto-submit
+auto-submit
+===========
 Auto-submit is used for evaluating auto submit in deepracer community races or virtual races.
 1. Download the configured json file and auto-submit.sh script
 2. Update auto-submit.sh script, replace model-arn, leaderboard-arn and sleep time with your setting
